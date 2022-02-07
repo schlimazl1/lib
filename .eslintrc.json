@@ -24,9 +24,10 @@
       }
     ],
     "no-unused-vars": "off",
-    "no-console": "warn",
+    "no-console": "off",
     "space-before-function-paren": "warn",
     "semi": ["warn", "never"],
-    "quotes": ["warn", "single"]
+    "quotes": ["warn", "single"],
+    "no-empty-interface": false
   }
 }
